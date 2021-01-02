@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-class Page1 extends StatelessWidget {
+class MyPage extends StatelessWidget {
   final String title;
 
-  Page1(this.title);
+  MyPage(this.title);
 
   @override
   Widget build(BuildContext context) {
