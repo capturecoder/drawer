@@ -19,7 +19,7 @@ class MyDrawer extends StatelessWidget {
                 child: new Text("N"),
               ),
               otherAccountsPictures: <Widget>[
-                new CircleAvatar(
+                  new CircleAvatar(
                   backgroundColor: Colors.white,
                 )
               ],
